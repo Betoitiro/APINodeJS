@@ -23,7 +23,7 @@ const Home = () => {
           </li>
           <li>
             <Link
-              to="/personal-data"
+              to="/PersonalData"
               className="text-gray-700 hover:text-indigo-500 font-semibold"
             >
               Personal Data
